@@ -16,6 +16,8 @@ Jag kommer att bifoga exempel på 4 st JSON filer som ni skall starta med, för 
 Dvs ni skall fylla på produkt JSON med mer produkter. NEJ ni måste inte göra en instrumentbutik, byt ut till vad ni vill men strukturen skall vara den samma.
 Ni FÅR lägga till fler objekt i strukturen om ni behöver.
 
+Det skall finnas minst 4 produkter per underkategori.
+
 Huvudmenyn skall innehålla: start, 4 produktkategorier (huvudkategorier från en json fil), info, kontakt, kundvagn.
 
 Start sidan får ni fylla med valfritt innehåll.
