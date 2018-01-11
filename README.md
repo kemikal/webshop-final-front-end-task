@@ -32,7 +32,7 @@ Vi skall kunna lägga produkter i en kundvagn.
 
 Går vi till kundvagnssidan så skall den visa våra produkter i kundvagnen, samt räkna ihop totalsumman, plus 55kr i frakt.
 
-Innan vi kan beställa produkterna så ska vi få möjligheten att antingen logga in eller skapa ett konto.
+Innan vi kan beställa produkterna så ska vi få möjligheten att antingen logga in (G) eller skapa ett konto (vg).
 
 Skapar vi ett konto så skall kunden fylla i:
 Namn, Adress, email (som oxå är inloggning) och telefonnummer, samt klicka i om de vill ha nyhetsbrev. (Vg)
@@ -44,7 +44,7 @@ Vi skall kunna komma åt en adminsida om vi går in på er domän/admin. Inlogga
 
 Startsidan får ni fylla med valfritt innehåll. 
 
-Kundlistan visar en lista på alla kunder.
+Kundlistan visar en lista på alla kunder. (G) för (vg) så skall den även visa nya kunder.
 
 Orderlistan listar alla orders. (vg)
 
